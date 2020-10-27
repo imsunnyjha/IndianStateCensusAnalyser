@@ -6,7 +6,7 @@ namespace StateAnalyser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Indian State Analyser problem!");
         }
     }
 }
