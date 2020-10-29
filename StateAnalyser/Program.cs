@@ -8,7 +8,7 @@ namespace StateAnalyser
     {
         static void Main(string [] args)
         {
-            Console.WriteLine("State Census");
+            Console.WriteLine("Welcome to Indian State Census Analyser Problem");
         }
     }
 }
